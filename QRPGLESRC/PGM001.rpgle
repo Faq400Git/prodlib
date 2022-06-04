@@ -7,7 +7,7 @@
        dcl-s testo   char(30);
 
        // Versione del programma
-       version='1.3';
+       version='1.3git st';
        testo='Versione '+Version;
        dsply Testo  ;
        exsr fine;
